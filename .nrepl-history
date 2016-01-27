@@ -1,0 +1,4 @@
+(start-repl)
+(println "hello!")
+(.-log js/console "hello")
+(js/console.log "hello")

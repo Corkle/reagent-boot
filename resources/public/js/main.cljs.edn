@@ -1,0 +1,2 @@
+{:require [reagent-boot.core]
+ :compiler-options {:asset-path "js/main.out"}}
